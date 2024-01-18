@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	int a=122;
+	int a=69;
 	cout<<"value of a is: "<<a<<endl;
 }
